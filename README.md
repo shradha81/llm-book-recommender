@@ -9,19 +9,33 @@ Gradio Web App: Interactive UI where users can enter a prompt and get smart book
 
 Requirements
 Python 3.11
+
 OpenAI API key in a .env file
+
 Packages:
+
 kagglehub
+
 pandas
+
 matplotlib
+
 seaborn
+
 python-dotenv
+
 langchain-community
+
 langchain-opencv
+
 langchain-chroma
+
 transformers
+
 gradio
+
 notebook
+
 ipywidgets
 
 Data
